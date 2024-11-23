@@ -14,6 +14,10 @@
   --renk4: #ffffff;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .nav__body {
   display: flex;
   gap: 16px;
